@@ -11,6 +11,6 @@ public class ScrabbleMain {
             System.out.println("Enter your word or '*' to quit");
             userInput = scanInstance.next();
         }
-
+        System.out.println("Thanks for playing!");
     }
 }
